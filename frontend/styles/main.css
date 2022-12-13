@@ -1,0 +1,71 @@
+.navbar-brand {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 38px;
+    
+    color: #000000;
+}
+
+.nav-item.active {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    
+    color: #000000;
+
+}
+
+/* Categories */
+.categories-thumbnail {
+    width: 100%;
+    height: 224px;   
+}
+
+.categories-img {
+    width: 100%;
+    height: 100%;
+}
+/* Tutup Categories */
+
+/* Button */
+.button {
+    margin-top: 100px;
+}
+/* Tutup Button */
+
+/* Footer */
+.footer {
+    background-color: #C4C4C4;
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer h2 {
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 23px;
+    text-transform: uppercase;
+    
+    color: #000000 
+
+}
+
+.footer h5 {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 14px;
+    
+    color: #000000;
+
+}
+
+.footer p {
+    font-family: 'poppins';
+    font-weight: 300;
+    font-size: 16px;
+    color: #595252;
+}
+/* Tutup Footer */
